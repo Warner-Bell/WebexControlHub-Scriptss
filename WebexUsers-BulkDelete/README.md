@@ -6,6 +6,35 @@ Filename | Language | Description
 BulkDeleteUsers.py | Python | Script to bulk delete users from a Control Hub org
 
 
+
+## Here's what you need to get started with bulk deleting users from Control Hub:
+
+    Your organization administrator credentials.
+
+    Get a personal access token from developer.webex.com.
+
+    The python reference script.
+    
+## About the reference script:
+
+    The script is limited to remove up to 100 users, by default. You can increase the limit if necessary. This proportionally increases the time required to run the script.
+
+    If you're using Python, you'll need to install the following modules:
+
+        requests
+
+        json
+
+        os
+
+        csv
+
+        urllib
+
+        time
+        
+## Bulk Delete Users
+
 ### 1. Sign in to Control Hub.
 ### 2. Export your users into a CSV file.
 
