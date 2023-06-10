@@ -1,5 +1,5 @@
-# webexControlHubScripts
-Scripts utilizing the Cisco Webex Control Hub APIs
+# WebEx Bulk User Delete Script
+Script utilizing the Cisco Webex Control Hub APIs
 
 Filename | Language | Description
 --- | --- | ---
